@@ -10,3 +10,5 @@ Helloworld!
 Have been just playing around!
 This is a staged line                       # Přidali jsme tento řádek.
 This is an unstaged line                    # Přidali jsme tento řádek.
+This is an unstaged line                    # Přidali jsme tento řádek.
+Need another line to be untracked so I can try the stash #Pridali jsme tento radek.
